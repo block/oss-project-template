@@ -1,7 +1,7 @@
 
 # Block Code of Conduct
 
-Block's mission is Economic Empowerment. This means opening the global economy to everyone. We extend the same principles of inclusion to our developer ecosystem. We are excited to build with you. So we will ensure our community is truly open, transparent and inclusive. Because of the global nature of our project, diversity and inclusivity is paramount to our success. We not only welcome diverse perspectives, we **need** them!
+Block's purpose is Economic Empowerment. This means opening the global economy to everyone. We extend the same principles of inclusion to our developer ecosystem. We are excited to build with you, and want to ensure our community is truly open, transparent and inclusive. Because of the global nature of our project, diversity and inclusivity is paramount to our success. We not only welcome diverse perspectives, we **need** them!
 
 The code of conduct below reflects the expectations for ourselves and for our community.
 
@@ -75,7 +75,7 @@ behavior was inappropriate. A public apology may be requested.
 **Community Impact**: A violation through a single incident or series of
 actions.
 
-**Consequence**: A warning with consequences for continued behavior. No
+**Consequence**: A warning with consequences for continued behavior. The offending party is warned to have no
 interaction with the people involved, including unsolicited interaction with
 those enforcing the Code of Conduct, for a specified period of time. This
 includes avoiding interactions in community spaces as well as external channels
@@ -102,7 +102,7 @@ Violating these terms may lead to a permanent ban.
 standards, including sustained inappropriate behavior, harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
-**Consequence**: A permanent ban from any sort of public interaction within the
+**Consequence**: A permanent ban from any form of public interaction within the
 community.
 
 ## Attribution
